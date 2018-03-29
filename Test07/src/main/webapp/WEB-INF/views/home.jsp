@@ -8,8 +8,11 @@
 <h1>
 	Hello world!  
 	test
+	<table>
+	<div style="text-align: right;">
 	test0329
-	pull test
+	</div>
+	</table>
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
